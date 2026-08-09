@@ -380,7 +380,7 @@ function startCountdown() {
 
 
     const weddingDate =
-        new Date("December 21, 2026 00:00:00").getTime();
+        new Date("December 20, 2026 00:00:00").getTime();
 
 
     function updateCountdown() {
